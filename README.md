@@ -1,5 +1,7 @@
-# Portfolio
-## Projeto da faculdade - portfólio web 
+<h1 align="center"> Portfólio </h1>
+
+<h3 align="center"> Projeto da faculdade - portfólio web </h3>
+
 ### Enunciado: 
 Um website ou sistema baseado na web de qualidade, segue os
 padrões formalizados pelo W3C. Tais padrões, quando seguidos,
