@@ -1,6 +1,6 @@
 # Portfolio
 ## Projeto da faculdade - portfólio web 
-## Enunciado: 
+### Enunciado: 
 Um website ou sistema baseado na web de qualidade, segue os
 padrões formalizados pelo W3C. Tais padrões, quando seguidos,
 levam a códigos HTML e CSS válidos, conteúdo, apresentação e
