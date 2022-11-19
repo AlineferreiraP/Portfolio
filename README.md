@@ -25,3 +25,5 @@ menos uma página com sua foto e currículo, mas para sua
 vida, poderá utilizá-lo para exibir os melhores projetos
 desenvolvidos em sua carreira. Lembre-se, ele deve seguir
 os padrões formalizados pelo W3C (web standards).
+
+#### Tecnologias usadas: HTML5, CSS3, Bootstrap.
